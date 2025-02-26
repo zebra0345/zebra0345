@@ -167,7 +167,6 @@
 - ![GPT API](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **프로젝트 설명**: **혼자 이루기 힘든 공부 목표**를 함께 이룰 수 있도록 **실시간 화상 스터디** 및 다양한 학습 지원 기능을 제공하는 서비스입니다. WebRTC 기반의 스터디룸을 통해 원격 학습 환경을 지원하며, AI 기반 **순공시간 체크 및 학습 태도 분석** 기능이 포함되어 있습니다.
