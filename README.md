@@ -152,3 +152,33 @@
 - **데이터베이스 성능 최적화**: 대량의 금융상품 데이터를 효율적으로 처리하기 위해 인덱싱 및 쿼리 최적화를 수행하였습니다.
 
 **프로젝트 링크**: [https://github.com/zebra0345/finSetProject](https://github.com/zebra0345/finSetProject)
+
+### 5. [DreamMoA - 꿈모아 서비스](https://github.com/zebra0345/dream_project)
+
+**개발 기간**: 2024년 1월 6일 ~ 2024년 2월 14일
+
+**기술 스택**:
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ![GPT API](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+**프로젝트 설명**:  
+**혼자 이루기 힘든 공부 목표**를 함께 이룰 수 있도록 **실시간 화상 스터디** 및 다양한 학습 지원 기능을 제공하는 서비스입니다. WebRTC 기반의 스터디룸을 통해 원격 학습 환경을 지원하며, AI 기반 **순공시간 체크 및 학습 태도 분석** 기능이 포함되어 있습니다.
+
+**담당 역할**:
+- **백엔드 개발**: Spring Boot & FastAPI를 활용한 API 서버 구축 및 데이터 관리
+- **AI 모델 개발**: GRU 모델을 활용한 학습 태도 분석 및 순공시간 측정 기능 구현
+- **실시간 자막 및 요약 기능 개발**: WebSocket 및 GPT API를 활용한 자동 자막 및 요약 기능 구현
+
+**트러블 슈팅**:
+- **STT 최적화 문제 해결**: STT 정확도를 위해 전처리 기법 프런트엔드에 구현
+- **AI 모델 정확도 개선**: 학습 태도 분석의 정확도를 높이기 위해 YOLOv8 및 MediaPipe를 적용하여 보정, 정규화-표준화를 통해 데이터 가공
+
+**프로젝트 링크**: [https://github.com/zebra0345/dream_project](https://github.com/zebra0345/dream_project)
+
