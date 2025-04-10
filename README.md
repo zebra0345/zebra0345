@@ -1,201 +1,111 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=wojin's%20Portfolio&fontAlign=70&rotate=13&fontAlignY=25&desc=Welcome%20to%20my%20portfolio!&descAlign=70.&descAlignY=44)
+# 👨‍💻 Wojin's Portfolio
 
-# Wojin's Portfolio
-
-> **항상 새로운 것을 추구하는 개발자**  
-> **얕은 지식을 기반으로 심화를 추구하는 사람**
+> **다양한 실전 경험과 실서비스 운영 경험을 가진 백엔드 & AI 개발자입니다.**  
+> **문과 출신의 강점을 살려, 문제 해결과 커뮤니케이션 역량에 강점을 가지고 있습니다.**
 
 ---
 
 ## 📌 기술 스택
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-000000?style=flat-square&logo=ai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Google STT](https://img.shields.io/badge/Google%20STT-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+**Back-end**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**AI/ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat&logo=jupyter&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![Google STT](https://img.shields.io/badge/Google%20STT-4285F4?style=flat&logo=google&logoColor=white)
+
+**Front-end**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 연락처
+## 🚀 실서비스 운영 경험
 
-- **이메일**: [zebra0345@naver.com](mailto:zebra0345@naver.com)
-- **GitHub**: [https://github.com/zebra0345](https://github.com/zebra0345)
+- **디스코드 음악 봇 (2025)**  
+  2,000명 이상이 사용하는 서버에 배포된 Discord 음악봇 운영  
+  Docker + FastAPI + Discord.py + 유튜브 큐 시스템 직접 구현
 
 ---
 
-## 📌 경력 사항
+## 💡 주요 프로젝트
+
+### 🛰 [DreamMoA – 꿈모아 서비스](https://github.com/zebra0345/dream_project)
+- **기간**: 2024.01.06 ~ 2024.02.14
+- **기술**: Spring Boot, FastAPI, GPT API, WebRTC, Redis, MySQL, React
+- **설명**: AI 기반 화상 스터디 & 실시간 자막/요약 기능 서비스
+- **역할**:
+  - GRU 모델을 통한 학습 태도 분석
+  - FastAPI와 WebSocket 기반 AI 자막 시스템 구축
+  - GPT API를 통한 요약 기능 구현
+
+---
+
+### 💰 [금융상품 추천 웹 앱](https://github.com/zebra0345/finSetProject)
+- **기간**: 2024.11.18 ~ 2024.11.28
+- **기술**: Django, Vue.js, JavaScript
+- **설명**: 사용자 금융 성향 분석 기반 상품 추천 서비스
+- **역할**: Django 백엔드 및 Vue 기반 프론트엔드 구현, 챗봇 설계 및 연동
+
+---
+
+### 🌞 [SolarBEMS – 태양광 에너지 관리 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
+- **기간**: 2023.12.18 ~ 2024.01.12
+- **기술**: Java, Spring Boot, MySQL, Arduino, Flask
+- **설명**: 태양광 모니터링 및 에너지 관리 플랫폼
+- **역할**: DB 설계, 로그인/회원관리/장치 연동 기능 구현
+
+---
+
+### 🧠 [건강기능식품 추천 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+- **기간**: 2024.02.19 ~ 2024.03.14
+- **기술**: Java, Spring Boot, QueryDSL, Vue.js, Jsoup
+- **설명**: 생애주기 기반 건강기능식품 추천 AI 시스템
+- **역할**: 추천 알고리즘 및 데이터 전처리, API 구현
+
+---
+
+### 🎵 [디스코드 음악 봇](https://github.com/zebra0345/bot_sample.git)
+- **기간**: 2025.04.01 ~ 2025.04.10
+- **기술**: Python, FastAPI, Discord.py, Docker
+- **설명**: 서버에서 실제로 운영 중인 음악 봇. 큐 관리, 유튜브 재생목록, 무한모드 기능 포함.
+
+---
+
+### 🎬 [영화 추천 알고리즘](https://github.com/zebra0345/movie.git)
+- **기간**: 2024.04.19 ~ 2024.04.29
+- **기술**: Python, Jupyter
+- **설명**: 텍스트 유사도 기반의 영화 추천 시스템 (Cosine Similarity 기반)
+
+---
+
+## 🧑‍🎓 교육 및 경력
 
 - **2023.10 ~ 2024.03**: 스마트그리드 기반 IoT 융합 SW 전문가 과정
-- **2024.06 ~ 2024.07**: 이글이비전 재직 (프로)
-- **2024.07 ~ 현재**: SSAFY (삼성 청년 소프트웨어 아카데미)
+- **2024.06 ~ 2024.07**: 이글이비전 (프로젝트 참여)
+- **2024.07 ~ 현재**: 삼성 청년 소프트웨어 아카데미 (SSAFY)
 
 ---
 
-## 📌 프로젝트
+## 📫 연락처
 
-### 1. [SolarBEMS](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
-
-**개발 기간**: 2023년 12월 18일 ~ 2024년 1월 12일
-
-**기술 스택**:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-- ![Lombok](https://img.shields.io/badge/Lombok-9C1A22?style=for-the-badge&logo=lombok&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**프로젝트 설명**:
-첫 번째 팀 프로젝트로, SolarBEMS 시스템을 개발하였습니다. 이 시스템은 태양광 발전 모니터링 및 관리 기능을 제공하여 효율적인 에너지 관리를 도와줍니다.
-
-**담당 역할**:
-- 데이터베이스 생성 및 관계 설정
-- 회원가입, 로그인, 회원정보 수정 기능 구현
-- DTO 구현 및 사용자 정보 관리
-- 장치 연동 관련 코드 작성
-
-**트러블 슈팅**:
-- **깃허브 오류**:
-  1. 초기 네트워크 오류로 레포지토리를 찾지 못함 → 경로 오류 확인 및 수정
-  2. 커밋 과정에서 토큰 문제 발생 → 토큰 권한 설정 및 재발급으로 해결
-  3. 쓰기 권한 오류로 인해 푸시 불가 → 시간 관계상 한 컴퓨터에서 공동 작업 진행
-
-**프로젝트 링크**: [https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
+[![Email](https://img.shields.io/badge/zebra0345@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zebra0345@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zebra0345-181717?style=flat&logo=github)](https://github.com/zebra0345)
 
 ---
 
-### 2. [생애주기 건강기능식품 추천 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
-
-**개발 기간**: 2024년 2월 19일 ~ 2024년 3월 14일
-
-**기술 스택**:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![QueryDSL](https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge&logo=querydsl&logoColor=white)
-- ![H2](https://img.shields.io/badge/H2-0072C6?style=for-the-badge&logo=h2&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-- ![Jsoup](https://img.shields.io/badge/Jsoup-000000?style=for-the-badge&logo=jsoup&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-- ![Element UI](https://img.shields.io/badge/Element%20UI-409EFF?style=for-the-badge&logo=element&logoColor=white)
-
-**프로젝트 설명**:
-머신러닝을 활용하여 사용자의 생애주기에 맞는 건강기능식품을 추천하는 시스템을 개발하였습니다. 이 시스템은 사용자 데이터 분석을 통해 개인화된 제품 추천을 제공합니다.
-
-**담당 역할**:
-- 데이터베이스 설계
-- 데이터 수집 및 전처리
-- 추천 알고리즘 구현
-- API 연동
-
-**트러블 슈팅**:
-- **과대적합 문제 해결**:
-  1. 모델의 과대적합 문제 발견
-  2. 상관계수를 기반으로 입력 변수 조정
-  3. 이벤트성 질환 제외 후 과대적합 문제 해결 (정확도 85% 이상 달성)
-
-**프로젝트 링크**: [https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
-
----
-
-### 4. [금융상품 추천 웹 어플리케이션](https://github.com/zebra0345/finSetProject)
-
-**개발 기간**: 2024년 11월 18일 ~ 2024년 11월 28일
-
-**기술 스택**:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-**프로젝트 설명**:
-이 프로젝트는 사용자의 금융 성향과 요구에 맞는 맞춤형 금융상품을 추천하는 웹 어플리케이션입니다. Django를 기반으로 한 백엔드와 Vue.js를 활용한 프론트엔드로 구성되어 있으며, 사용자 친화적인 인터페이스와 효율적인 데이터 처리를 통해 최적의 금융상품을 제공합니다.
-
-**담당 역할**:
-- **백엔드 개발**: 회원가입, 게시판, 댓글, 좋아요 등의 CRUD 기능 구현
-- **프론트엔드 개발**: Vue.js를 활용한 사용자 인터페이스 설계 및 구현
-- **챗봇 개발**: 사용자의 문의에 실시간으로 응답하는 챗봇 기능 구현
-
-**트러블 슈팅**:
-- **데이터베이스 성능 최적화**: 대량의 금융상품 데이터를 효율적으로 처리하기 위해 인덱싱 및 쿼리 최적화를 수행하였습니다.
-
-**프로젝트 링크**: [https://github.com/zebra0345/finSetProject](https://github.com/zebra0345/finSetProject)
-
----
-
-### 5. [DreamMoA - 꿈모아 서비스](https://github.com/zebra0345/dream_project)
-
-**개발 기간**: 2024년 1월 6일 ~ 2024년 2월 14일
-
-**기술 스택**:
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-- ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-- ![GPT API](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-**프로젝트 설명**: **혼자 이루기 힘든 공부 목표**를 함께 이룰 수 있도록 **실시간 화상 스터디** 및 다양한 학습 지원 기능을 제공하는 서비스입니다. WebRTC 기반의 스터디룸을 통해 원격 학습 환경을 지원하며, AI 기반 **순공시간 체크 및 학습 태도 분석** 기능이 포함되어 있습니다.
-
-**담당 역할**:
-- **백엔드 개발**: Spring Boot & FastAPI를 활용한 API 서버 구축 및 데이터 관리
-- **AI 모델 개발**: GRU 모델을 활용한 학습 태도 분석 및 순공시간 측정 기능 구현
-- **실시간 자막 및 요약 기능 개발**: WebSocket 및 GPT API를 활용한 자동 자막 및 요약 기능 구현
-
-**트러블 슈팅**:
-- **STT 최적화 문제 해결**: STT 정확도를 위해 전처리 기법 프런트엔드에 구현
-- **AI 모델 정확도 개선**: 학습 태도 분석의 정확도를 높이기 위해 YOLOv8 및 MediaPipe를 적용하여 보정, 정규화-표준화를 통해 데이터 가공
-
-**프로젝트 링크**: [https://github.com/zebra0345/dream_project](https://github.com/zebra0345/dream_project)
-
-
-## 토이프로젝트
-
-### 1. [영화 추천 알고리즘](https://github.com/zebra0345/movie.git)
-
-**개발 기간**: 2024.04.19 ~ 2024.04.29
-
-**기술 스택**: 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**프로젝트 설명**: 
-코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다.
-
-**프로젝트 링크**: [https://github.com/zebra0345/movie.git](https://github.com/zebra0345/movie.git)
-
-
----
-
-### 2. [디스코드 음악 봇 개발](https://github.com/zebra0345/bot_sample.git)
-
-**개발 기간**: 2025.04.01 ~ 2024.04.10
-
-**기술 스택**: 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**프로젝트 설명**: 
-discord.py 라이브러리로 discord 에서 사용하는 음악봇을 개발했습니다.
-현재 2천명 규모의 서버에서 서비스중입니다.
-도커와 도커 컴포즈를 통해 서버 관리중이며, 적절히 리소스 분산으로 서버 부하를 줄였습니다.
-
-
-**프로젝트 링크**: [https://github.com/zebra0345/bot_sample.git](https://github.com/zebra0345/bot_sample.git)
+> 👏 꾸준한 도전과 서비스 운영 경험을 통해 사용자 중심의 개발에 자신 있습니다.
