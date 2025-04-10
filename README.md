@@ -114,22 +114,6 @@
 
 ---
 
-### 3. [영화 추천 알고리즘](https://github.com/zebra0345/movie.git)
-
-**개발 기간**: 2024.04.19 ~ 2024.04.29
-
-**기술 스택**: 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**프로젝트 설명**: 
-코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다.
-
-**프로젝트 링크**: [https://github.com/zebra0345/movie.git](https://github.com/zebra0345/movie.git)
-
-
----
-
 ### 4. [금융상품 추천 웹 어플리케이션](https://github.com/zebra0345/finSetProject)
 
 **개발 기간**: 2024년 11월 18일 ~ 2024년 11월 28일
@@ -182,3 +166,21 @@
 
 **프로젝트 링크**: [https://github.com/zebra0345/dream_project](https://github.com/zebra0345/dream_project)
 
+
+## 토이프로젝트
+
+### 1. [영화 추천 알고리즘](https://github.com/zebra0345/movie.git)
+
+**개발 기간**: 2024.04.19 ~ 2024.04.29
+
+**기술 스택**: 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**프로젝트 설명**: 
+코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다.
+
+**프로젝트 링크**: [https://github.com/zebra0345/movie.git](https://github.com/zebra0345/movie.git)
+
+
+---
