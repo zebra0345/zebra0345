@@ -184,3 +184,18 @@
 
 
 ---
+
+### 2. [디스코드 음악 봇 개발](https://github.com/zebra0345/bot_sample.git)
+
+**개발 기간**: 2025.04.01 ~ 2024.04.10
+
+**기술 스택**: 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**프로젝트 설명**: 
+discord.py 라이브러리로 discord 에서 사용하는 음악봇을 개발했습니다.
+현재 2천명 규모의 서버에서 서비스중입니다.
+도커와 도커 컴포즈를 통해 서버 관리중이며, 적절히 리소스 분산으로 서버 부하를 줄였습니다.
+
+
+**프로젝트 링크**: [https://github.com/zebra0345/bot_sample.git](https://github.com/zebra0345/bot_sample.git)
