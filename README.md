@@ -48,10 +48,7 @@
 - **기간**: 2024.01.06 ~ 2024.02.14
 - **기술**: Spring Boot, FastAPI, GPT API, WebRTC, Redis, MySQL, React
 - **설명**: AI 기반 화상 스터디 & 실시간 자막/요약 기능 서비스
-- **역할**:
-  - GRU 모델을 통한 학습 태도 분석
-  - FastAPI와 WebSocket 기반 AI 자막 시스템 구축
-  - GPT API를 통한 요약 기능 구현
+- **역할**: GRU 모델을 통한 학습 태도 분석, FastAPI와 WebSocket 기반 AI 자막 시스템 구축, GPT API를 통한 요약 기능 구현
 
 ---
 
