@@ -90,6 +90,19 @@
 
 ---
 
+### 💰 [MMM – 무조건 모으는 머니](https://github.com/zebra0345/MMM)
+- **기간**: 2025.02.17 ~ 2025.04.12
+- **기술**: Spring Boot, FastAPI, PyTorch, MySQL, MongoDB, React, Docker, Jenkins
+- **설명**: 과소비 시대를 살아가는 현대인들을 위한 소비 절제 & 저축 습관 유도 서비스.  
+  소비 패턴을 분석하고, 연령대별 비교 및 AI 기반 다음 달 소비 예측까지 제공.
+- **역할**:  
+  - **AI/ML 개발 및 FastAPI 구현**
+    - KoBERT 기반 상호명 태깅 모델 개발 및 FAISS 검색 인덱스 구축 (200만 상호명)
+    - 시계열 소비 예측을 위한 GRU 모델 학습 및 FastAPI API 연동
+    - CosineSimilarity, MAE, MAPE 등 정량적 평가 지표 기반 정확도 95% 달성
+      
+---
+
 ## 🧑‍🎓 교육 및 경력
 
 - **2023.10 ~ 2024.03**: 스마트그리드 기반 IoT 융합 SW 전문가 과정
