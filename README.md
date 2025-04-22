@@ -97,7 +97,7 @@
   소비 패턴을 분석하고, 연령대별 비교 및 AI 기반 다음 달 소비 예측까지 제공.
 - **역할**:  
   - **AI/ML 개발 및 FastAPI 구현**
-    - KoBERT 기반 상호명 태깅 모델 개발 및 FAISS 검색 인덱스 구축 (200만 상호명)
+    - KoBERT 기반 상호명 태깅 모델 개발 및 FAISS 검색 인덱스 구축 (2000만 상호명)
     - 시계열 소비 예측을 위한 GRU 모델 학습 및 FastAPI API 연동
     - CosineSimilarity, MAE, MAPE 등 정량적 평가 지표 기반 정확도 95% 달성
       
