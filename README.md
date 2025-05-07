@@ -44,69 +44,106 @@
 
 ## 💡 주요 프로젝트
 
+### 💰 [MMM – 무조건 모으는 머니](https://github.com/zebra0345/MMM)
+- **기간**: 2025.02.17 ~ 2025.04.12  
+- **기술**: Spring Boot, FastAPI, PyTorch, MySQL, MongoDB, React, Docker, Jenkins  
+- **설명**:  
+  소비 패턴 분석 및 AI 기반 예측으로 과소비를 예방하고 저축을 유도하는 통합 소비 관리 플랫폼.  
+- **역할**:  
+  - KoBERT 기반 상호명 태깅 모델 및 FAISS 인덱스 구축 (2,000만 상호명)  
+  - GRU 기반 시계열 소비 예측 모델 개발 및 FastAPI 연동  
+  - Cosine Similarity, MAE, MAPE 기반 평가 정확도 95% 이상 달성  
+  - Docker & Jenkins 기반 멀티 컨테이너 배포 및 CI/CD 구성  
+
+---
+
 ### 🛰 [DreamMoA – 꿈모아 서비스](https://github.com/zebra0345/dream_project)
-- **기간**: 2024.01.06 ~ 2024.02.14
-- **기술**: Spring Boot, FastAPI, GPT API, WebRTC, Redis, MySQL, React
-- **설명**: AI 기반 화상 스터디 & 실시간 자막/요약 기능 서비스
-- **역할**: GRU 모델을 통한 학습 태도 분석, FastAPI와 WebSocket 기반 AI 자막 시스템 구축, GPT API를 통한 요약 기능 구현
+- **기간**: 2024.01.06 ~ 2024.02.14  
+- **기술**: Spring Boot, FastAPI, GPT API, WebRTC, Redis, MySQL, React  
+- **설명**:  
+  AI 기반 화상 스터디 플랫폼으로, 실시간 자막/요약 및 학습 태도 분석 기능을 제공.  
+- **역할**:  
+  - Whisper + WebRTC 기반 실시간 자막 시스템 구축  
+  - GPT 기반 발화 요약 기능 및 사용자 집중도 GRU 분석 모델 개발  
+  - FastAPI 기반 AI 서버 및 WebSocket 통신 구성  
 
 ---
 
 ### 💰 [금융상품 추천 웹 앱](https://github.com/zebra0345/finSetProject)
-- **기간**: 2024.11.18 ~ 2024.11.28
-- **기술**: Django, Vue.js, JavaScript
-- **설명**: 사용자 금융 성향 분석 기반 상품 추천 서비스
-- **역할**: Django 백엔드 및 Vue 기반 프론트엔드 구현, 챗봇 설계 및 연동
+- **기간**: 2024.11.18 ~ 2024.11.28  
+- **기술**: Django, Vue.js, JavaScript  
+- **설명**:  
+  사용자 금융 성향 분석을 통해 맞춤형 금융 상품을 추천하는 웹 서비스.  
+- **역할**:  
+  - Django 기반 사용자 금융 유형 분류 및 챗봇 추천 시스템 구현  
+  - Vue 기반 프론트 UI 구성 및 API 연동  
 
 ---
 
 ### 🌞 [SolarBEMS – 태양광 에너지 관리 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
-- **기간**: 2023.12.18 ~ 2024.01.12
-- **기술**: Java, Spring Boot, MySQL, Arduino, Flask
-- **설명**: 태양광 모니터링 및 에너지 관리 플랫폼
-- **역할**: DB 설계, 로그인/회원관리/장치 연동 기능 구현
+- **기간**: 2023.12.18 ~ 2024.01.12  
+- **기술**: Java, Spring Boot, MySQL, Arduino, Flask  
+- **설명**:  
+  태양광 발전 데이터를 수집 및 시각화하여 전력 효율을 향상시키는 IoT 기반 시스템.  
+- **역할**:  
+  - DB 설계 및 Spring Boot 기반 REST API 구축  
+  - 아두이노-서버 간 센서 연동 및 데이터 수신 처리  
+  - Flask 기반 간단한 장치 연동 서버 개발  
 
 ---
 
 ### 🧠 [건강기능식품 추천 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
-- **기간**: 2024.02.19 ~ 2024.03.14
-- **기술**: Java, Spring Boot, QueryDSL, Vue.js, Jsoup
-- **설명**: 생애주기 기반 건강기능식품 추천 AI 시스템
-- **역할**: 추천 알고리즘 및 데이터 전처리, API 구현
+- **기간**: 2024.02.19 ~ 2024.03.14  
+- **기술**: Java, Spring Boot, QueryDSL, Vue.js, Jsoup  
+- **설명**:  
+  생애주기 데이터를 기반으로 맞춤형 건강기능식품을 추천하는 AI 시스템.  
+- **역할**:  
+  - 사용자 생애주기 분류 및 카테고리별 추천 로직 설계  
+  - 사용자 데이터 기반 머신러닝을 통해 건강기능식품 추천
 
 ---
 
 ### 🎵 [디스코드 음악 봇](https://github.com/zebra0345/bot_sample.git)
-- **기간**: 2025.04.01 ~ 2025.04.10
-- **기술**: Python, FastAPI, Discord.py, Docker
-- **설명**: 서버에서 실제로 운영 중인 음악 봇. 큐 관리, 유튜브 재생목록, 무한모드 기능 포함.
+- **기간**: 2025.04.01 ~ 2025.04.10  
+- **기술**: Python, FastAPI, Discord.py, Docker  
+- **설명**:  
+  서버에서 실시간 운영 중인 고기능 Discord 음악 봇.  
+  유튜브 재생목록, 큐 관리, 무한모드 등 다양한 기능 탑재.  
+- **역할**:  
+  - FastAPI로 유튜브 메타데이터 전처리 서버 구축  
+  - Discord.py 기반 봇 인터페이스 및 메시지 임베딩 시스템 설계  
+  - Docker 기반 전체 환경 통합 및 성능 최적화  
 
 ---
 
 ### 🎬 [영화 추천 알고리즘](https://github.com/zebra0345/movie.git)
-- **기간**: 2024.04.19 ~ 2024.04.29
-- **기술**: Python, Jupyter
-- **설명**: 텍스트 유사도 기반의 영화 추천 시스템 (Cosine Similarity 기반)
+- **기간**: 2024.04.19 ~ 2024.04.29  
+- **기술**: Python, Jupyter  
+- **설명**:  
+  텍스트 유사도(Cosine Similarity)를 활용한 영화 추천 시스템 구현.  
+- **역할**:  
+  - 영화 줄거리 벡터화 및 유사도 기반 추천 알고리즘 설계  
+  - 장르 필터링 기능 및 사용자 기반 추천 평가  
 
 ---
 
-### 💰 [MMM – 무조건 모으는 머니](https://github.com/zebra0345/MMM)
-- **기간**: 2025.02.17 ~ 2025.04.12
-- **기술**: Spring Boot, FastAPI, PyTorch, MySQL, MongoDB, React, Docker, Jenkins
-- **설명**: 과소비 시대를 살아가는 현대인들을 위한 소비 절제 & 저축 습관 유도 서비스.  
-  소비 패턴을 분석하고, 연령대별 비교 및 AI 기반 다음 달 소비 예측까지 제공.
+### 🧑‍💻 Django 오픈소스 기여  
+- **프로젝트**: [Django 공식 저장소 PR #19359](https://github.com/django/django/pull/19359)  
+- **기여 내용**:  
+  - `ASGIHandler.read_body()`에서의 비동기 write 처리 문제 수정  
+  - `asyncio` 환경에서도 안전한 비동기 스트리밍을 지원하도록 개선  
 - **역할**:  
-  - **AI/ML 개발 및 FastAPI 구현**
-    - KoBERT 기반 상호명 태깅 모델 개발 및 FAISS 검색 인덱스 구축 (2000만 상호명)
-    - 시계열 소비 예측을 위한 GRU 모델 학습 및 FastAPI API 연동
-    - CosineSimilarity, MAE, MAPE 등 정량적 평가 지표 기반 정확도 95% 달성
-      
+  - 이슈 분석 → 수정 코드 작성 → 테스트 추가 및 PR 제출 → 메인 브랜치 머지  
+- **성과**:  
+  - Django 공식 저장소에 기여 성공
+  - 이슈 링크: https://code.djangoproject.com/ticket/36281  
+
 ---
 
 ## 🧑‍🎓 교육 및 경력
 
-- **2023.10 ~ 2024.03**: 스마트그리드 기반 IoT 융합 SW 전문가 과정
-- **2024.06 ~ 2024.07**: 이글이비전 (프로)
+- **2023.10 ~ 2024.03**: 스마트그리드 기반 IoT 융합 SW 전문가 과정  
+- **2024.06 ~ 2024.07**: 이글이비전 (프로)  
 - **2024.07 ~ 현재**: 삼성 청년 소프트웨어 아카데미 (SSAFY)
 
 ---
@@ -118,4 +155,4 @@
 
 ---
 
-> 👏 꾸준한 도전과 서비스 운영 경험을 통해 사용자 중심의 개발에 자신 있습니다.
+> 👏 꾸준한 도전과 실서비스 운영 경험을 통해 사용자 중심의 개발에 자신 있습니다.
