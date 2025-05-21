@@ -26,7 +26,7 @@
 
 ## 💼 프로젝트 경험
 
-### 💰 MMM – 소비 패턴 예측 플랫폼 (SSAFY 특화 프로젝트)
+### 💰 MMM – 소비 패턴 예측 플랫폼 (삼성청년소프트웨어AI아카데미 특화 프로젝트)
 **2025.02 ~ 2025.04 | Spring Boot + FastAPI + KoBERT + GRU + Jenkins + Docker**  
 🔗 [GitHub 보기](https://github.com/zebra0345/MMM)
 
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎧 Discord 음악봇 외주 프로젝트
+### 🎧 Discord 음악봇 (외주 프로젝트)
 **2025.04 | Python + FastAPI + Discord.py + Docker**  
 🔗 [GitHub 보기](https://github.com/zebra0345/bot_sample.git)
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🗣 DreamMoA – AI 화상 스터디 플랫폼
+### 🗣 DreamMoA – AI 화상 스터디 플랫폼 (삼성청년소프트웨어AI아카데미 공통 프로젝트)
 **2024.01 ~ 2024.02 | FastAPI + GPT + GRU + YOLOv8 + React**  
 🔗 [GitHub 보기](https://github.com/zebra0345/dream_project)
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 💳 금융상품 추천 웹 서비스
+### 💳 금융상품 추천 웹 서비스 (삼성청년소프트웨어AI아카데미 관통 프로젝트)
 **2024.11 | Django + Vue.js + GPT API**  
 🔗 [GitHub 보기](https://github.com/zebra0345/finSetProject)
 
@@ -93,7 +93,7 @@
 
 ---
 
-### ☀️ SolarBEMS – 태양광 발전 IoT 모니터링
+### ☀️ SolarBEMS – 태양광 발전 IoT 모니터링 (스마트그리드 IoT 융합 SW 전문가 과정 중간프로젝트)
 **2023.12 ~ 2024.01 | Java + Flask + Spring Boot**  
 🔗 [GitHub 보기](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
 
