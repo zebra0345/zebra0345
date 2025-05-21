@@ -1,177 +1,153 @@
-# 👨‍💻 Wojin Shin's GitHub Portfolio
+# 👨‍💻 Wojin Shin | Backend & AI Developer
 
 > **문과 출신에서 Django Contributor로.**  
-> **실제 서비스 운영 경험과 오픈소스 기여를 바탕으로, 기술을 실용적으로 다루는 백엔드 & AI 개발자입니다.**
+> 실전 프로젝트 중심으로 백엔드/AI 분야에 강점을 가진 개발자입니다.
 
 ---
 
-## ✨ 요약
+## ✨ 핵심 요약
 
-- 🧠 **Django 공식 기여자** – [PR #19359](https://github.com/django/django/pull/19359)  
-- 💰 **소비 예측/저축 유도 플랫폼 MMM** – KoBERT 검색 + GRU 예측 기반 소비 분석 및 태깅  
-- 🎧 **의뢰 기반 Discord 음악봇 제작** – FastAPI + OLLAMA 장르 분석 + Docker로 운영 안정성 확보  
+- 🧠 Django Contributor – [PR #19359](https://github.com/django/django/pull/19359)
+- 💰 소비 예측 기반 건강기능식품 추천 시스템 개발
+- 🎧 의뢰 기반 Discord 음악 봇 외주 제작
+- 🧠 AI 모델 최적화 및 데이터 증강 경험 보유
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📦 Back-end  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### 🧠 AI / ML  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![KoBERT](https://img.shields.io/badge/KoBERT-%23121011?style=flat&logo=python&logoColor=white)
-![GPT API](https://img.shields.io/badge/GPT_API-412991?style=flat&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat&logo=openai&logoColor=white)
-![Cosine Similarity](https://img.shields.io/badge/Cosine%20Similarity-%23121011?style=flat&logo=python&logoColor=white)
-
-### 🧱 Infra  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-### 💻 Front-end  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
-### 🧰 Dev Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Back-End**: `Java`, `Spring Boot`, `Django`, `FastAPI`, `MySQL`, `Redis`  
+**AI/ML**: `PyTorch`, `KoBERT`, `GRU`, `GPT API`, `Whisper`, `Scikit-learn`, `FAISS`  
+**Infra**: `Docker`, `Jenkins`, `Linux`, `AWS S3`, `NGINX`  
+**Front-End**: `React`, `Vue.js`, `Vite`, `TailwindCSS`, `Recoil`  
+**Tools**: `Git`, `GitLab CI`, `Jupyter`, `Postman`, `Notion`, `Figma`
 
 ---
 
-## 💼 대표 프로젝트
+## 💼 프로젝트 경험
 
-### 💰 MMM – 무조건 모으는 머니  
-**2025.02 ~ 2025.04 | Spring Boot + FastAPI + GRU + KoBERT + Jenkins + Docker**  
-> AI 기반 소비 패턴 분석 및 예측 플랫폼
-
-- **소비 데이터 전처리 및 토큰화**  
-  : SK KoBERT 토크나이저를 이용해 약 2,000만 건의 소비 데이터를 단어 단위로 토큰화하고 임베딩 벡터 생성  
-- **FAISS Index 압축 적용**  
-  : 임베딩된 상호명 데이터를 FAISS로 압축하여 검색 속도 O(1) 구현, 시스템 효율 향상  
-- **소비 예측 모델 설계**  
-  : GRU 모델을 사용해 시계열 소비 내역 예측, 슬라이싱 윈도우 기법을 통해 데이터 증강  
-  : MSE, RMSE 기준 0.대 성능 확보  
-- **Spring Boot ↔ FastAPI 연동 설계**  
-  : AI 예측 서버(FastAPI)와 백엔드(Spring Boot) 간 REST API 통신 구조 설계  
-- **CI/CD 자동화**  
-  : Jenkins + Docker 기반으로 서비스 전체 파이프라인 자동화
-
+### 💰 MMM – 소비 패턴 예측 플랫폼 (SSAFY 특화 프로젝트)
+**2025.02 ~ 2025.04 | Spring Boot + FastAPI + KoBERT + GRU + Jenkins + Docker**  
 🔗 [GitHub 보기](https://github.com/zebra0345/MMM)
 
+**🙋 역할**
+- AI(100%) / Backend(20%) / Deploy(10%)
+  - 소비자 소비 이력을 분석하여 건강기능식품을 추천하는 AI 플랫폼
+  - GRU 기반 소비패턴 예측, FAISS로 유사 소비자 검색 최적화
+ 
+  
+**⚠️ Trouble Shooting**
+- **모델 학습 시간 증가** → FAISS 기반 벡터 인덱싱 도입  
+- **데이터 부족** → Sliding window로 소비 데이터 증강  
+- **소비 태그 자동 분류 정확도 문제** → KoBERT tokenizer 직접 튜닝
+
 ---
 
-### 🎧 Discord 고기능 음악 봇  
+### 🎧 Discord 음악봇 외주 프로젝트
 **2025.04 | Python + FastAPI + Discord.py + Docker**  
-> 실 사용자 의뢰 기반 음악 봇 개발
-
-- **비동기 음악 예약/전처리 서버 구성**  
-  : FastAPI 기반 서버에서 YouTube 메타데이터를 비동기 처리, Discord.py와 기능 분리하여 서버 부하 분산  
-- **사용자 맞춤 기능 탑재**  
-  : 재생목록 큐, 무한 반복 모드, 상태 메시지 업데이트 등 요청 기반 기능 구현  
-- **OLLAMA 모델 기반 음악 장르 분류**  
-  : 사용자가 등록한 음악에 대해 장르 자동 분류 후 큐 자동 삽입  
-- **Docker 컨테이너 분리 배포**  
-  : 음악 봇과 백엔드를 Docker로 분리해 안정적 운영 환경 구성
-
 🔗 [GitHub 보기](https://github.com/zebra0345/bot_sample.git)
 
----
+**🙋 역할**
+- AI(100%) / Backend(100%)
+  - 실 사용자 기반 음악 큐 요청 → 스트리밍 봇 구현
+  - Ollama 기반 장르 분석 + FastAPI 분산 처리 설계
 
-### 🧑‍💻 Django 오픈소스 기여  
-**2024.04 | Django 공식 저장소 PR 반영 – [PR #19359](https://github.com/django/django/pull/19359)**  
-> Django 5.1 릴리즈 반영: ASGIHandler의 비동기 처리 개선
-
-- `ASGIHandler.read_body()`의 동기 처리 문제 해결  
-  : Rollover 발생 시에도 비동기 write 처리를 적용하여 메모리 → 스레드 전환 지연 문제 제거  
-- `python-stattle`, `gettar` 사용해 스레드풀 처리 구현  
-- **관련 테스트 케이스 작성 및 코드 리팩토링**
-
----
-
-### 🎥 영화 추천 알고리즘  
-**2024.04 | Python + NLP**  
-> 줄거리 기반 콘텐츠 유사도 추천 시스템
-
-- 줄거리, 작가명을 KoBERT 기반 토큰화  
-- 전체 DB에 대해 코사인 유사도 계산 → 가장 유사한 영화 리스트 반환
-
-🔗 [GitHub 보기](https://github.com/zebra0345/movie.git)
+**⚠️ Trouble Shooting**
+- **봇 Block 현상** → FastAPI로 음악 전처리 API 분리  
+- **자원 미해제** → 종료 시 리소스 초기화 함수 수동 설계  
+- **대량 동시 접속 문제** → 메시지 큐 방식으로 비동기 처리 구현
 
 ---
 
-### 🗣 DreamMoA – AI 화상 스터디 플랫폼  
-**2024.01 ~ 02 | FastAPI + GPT + Whisper + OpenCV**  
-> 실시간 화상 수업에서 자막, 요약, 집중도 분석을 제공하는 플랫폼
-
-- **Whisper 모델 기반 실시간 자막 추출**  
-- **OpenCV 기반 자세 추적 → 집중도 분석**  
-  : 눈동자, 고개, 팔꿈치 위치 기반으로 사용자 집중도 판단  
-- **GPT 기반 회의 요약 기능**  
-  : 수업 종료 후 자동 스크립트 요약 리포트 제공
-
+### 🗣 DreamMoA – AI 화상 스터디 플랫폼
+**2024.01 ~ 2024.02 | FastAPI + GPT + GRU + YOLOv8 + React**  
 🔗 [GitHub 보기](https://github.com/zebra0345/dream_project)
 
+
+**🙋 역할**
+- AI(100%) / Backend(50%)
+  - 실시간 집중도 분석, 요약, 자막 제공 플랫폼
+  - GPT 요약, Whisper 자막, GRU 집중도 분석 적용
+
+
+**⚠️ Trouble Shooting**
+- **LSTM 과부하 문제** → GRU 모델로 변경  
+- **성별 편향** → 여성 데이터 수집 후 재학습  
+- **정규화 문제** → 이중 정규화 제거 및 표준화 방식 변경
+
 ---
 
-### 💳 금융상품 추천 시스템  
-**2024.11 | Django + GPT API + Vue.js**  
-> 사용자 성향 기반 금융상품 추천 웹 서비스
-
-- 사용자 성향은 GPT API를 활용해 분석  
-- 현재 가입 상품 기반 유사 상품 추천 (rule-based 방식)  
-- 전체 백엔드 로직 개발 및 프론트 일부 구현 (지도 연동 포함)
-
+### 💳 금융상품 추천 웹 서비스
+**2024.11 | Django + Vue.js + GPT API**  
 🔗 [GitHub 보기](https://github.com/zebra0345/finSetProject)
 
+**🙋 역할**
+- Backend(100%) / Frontend(10%)
+  - 금융 성향 분석을 통한 상품 추천 서비스
+  - 카카오맵 및 소셜로그인 연동
+
+  
+**⚠️ Trouble Shooting**
+- **HTTPS 미연동으로 인한 카카오 API 오류** → HTTPS 인증 및 Callback URL 수정  
+- **DB 정규화 문제** → 회원, 예금, 적금 테이블 분리로 해결
+
 ---
 
-### ☀️ SolarBEMS  
-**2023.12 ~ 2024.01 | Java + Flask**  
-> 태양광 발전 시스템의 IoT 모니터링 및 사용자별 시각화
-
-- 회원 로그인/관리 기능 구현 및 DB 설계  
-- 사용자에 따라 대시보드 구성 변경  
-- 대시보드 초기 디자인 및 구현 주도
-
+### ☀️ SolarBEMS – 태양광 발전 IoT 모니터링
+**2023.12 ~ 2024.01 | Java + Flask + Spring Boot**  
 🔗 [GitHub 보기](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
 
+**🙋 역할**
+- Backend(50%) / Frontend(50%)
+  - 태양광 데이터 수집 → 사용자 시각화 시스템
+  - 반응형 프론트엔드 구현
+
+  
+**⚠️ Trouble Shooting**
+- **아두이노 연동 오류** → 모델 교체  
+- **회로 불량** → 브레드보드 재설계
+
 ---
 
-### 💊 건강기능식품 추천 시스템  
-**2024.02 ~ 03 | Spring + KNN + 클러스터링**  
-> 생애주기, 건강검진 정보 기반 건강기능식품 추천
-
-- 설문을 통해 수집된 생활 패턴을 기반으로 KNN 분류  
-- 비슷한 환자 군집에서 주요 영양소 추출 후 관련 건강식품 추천
-
+### 💊 건강기능식품 추천 시스템 (기업연계)
+**2024.02 ~ 2024.03 | Spring + Flask + KNN + Clustering**  
 🔗 [GitHub 보기](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+
+**🙋 역할**
+- AI(80%) / Backend(30%)
+  - 생애주기 + 건강검진 데이터를 기반으로 건강기능식품 추천
+  - 군집 내 주요 질병 특징 기반 추천 로직 구현(KNN)
+
+
+**⚠️ Trouble Shooting**
+- **분류 정확도 낮음** → 군집 중심 영양소 선택 기준 추가  
+- **설문 기반 데이터 편향** → 설문 검증 로직 강화
+
+---
+
+### 🎥 영화 추천 시스템 (토이 프로젝트)
+**2024.04 | Python + NLP**  
+🔗 [GitHub 보기](https://github.com/zebra0345/movie.git)
+
+**🙋 역할**
+- AI(100%)
+  - 줄거리 기반 코사인 유사도 추천 시스템
+
+
+**⚠️ Trouble Shooting**
+- **제목 중심 토크나이저 정확도 편차** → 고정된 tokenizer로 저장 후 재활용  
+- **유사도 기준 모호** → 코사인 유사도로 유사 작품 판단 기준 명확화
 
 ---
 
 ## 🎓 이력 요약
 
-- 삼성 청년 소프트웨어 아카데미 (SSAFY, 2024~)  
+- 삼성 청년 소프트웨어 아카데미 (SSAFY) 수료 중 (2024~)  
 - 스마트그리드 IoT 융합 SW 전문가 과정 수료 (2023~2024)  
-- 이글이비전 프로 (2024.04 ~ 05)
+- 이글이비전 인턴 (2024.04 ~ 2024.05)
 
 ---
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/zebra0345@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zebra0345@naver.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-zebra0345-181717?style=flat&logo=github)](https://github.com/zebra0345)
-
----
-
-> 💬 기술은 문제를 푸는 도구라고 믿습니다.  
-> 실용적인 구현력과 커뮤니케이션 능력을 바탕으로, **팀에 꼭 필요한 개발자**가 되겠습니다.
+[![Email](https://img.shields.io/badge/zebra0345@naver.com-D14836?style=flat)]()
