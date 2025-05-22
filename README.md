@@ -26,6 +26,23 @@
 
 ## 💼 프로젝트 경험
 
+### 🏔️ Ollana - 등산 추천 및 페이스 메이커 어플 (삼성청년소프트웨어AI아카데미 자율 프로젝트)
+**2025.04 ~ 2025.05 | Spring Boot + FastAPI + Flutter + Kotlin + Jenkins + Docker + Sonarqube**  
+🔗 [GitHub 보기](https://github.com/zebra0345/Ollana)  
+
+**🙋 역할**
+- AI(100%) / Backend(25%) / Deploy(100%)
+  - 사용자 설문 기반 맞춤 산 추천
+  - 거리기반, 테마기반 맞춤 산 추천
+  - Tensorflow 모델 기반 사용자 생체데이터 분석
+  - 사용자 운동 형태 분석 및 조언 제공
+
+
+**⚠️ Trouble Shooting**
+- **데이터 불균형 문제** → SMOTE기법, 다운샘플링으로 샘플 균형 해소
+- **모델 정확도, 과적합 문제** → 모델이 0, 1, 2 중 1에 해당하는 데이터에 과적합, Focal Loss로 클래스별 가중치 부여, early stop을 callback으로 사용, AdamW와 dropout 0.4로 Softmax 상승
+- **K-means 클러스터링 문제** → 데이터 내부 이상치, 특히 제주도에 해당하는 산 데이터(한라산) 으로 인한 클러스터 오류, 데이터 전처릴 작업을 통해 해결
+
 ### 💰 MMM – 소비 패턴 예측 플랫폼 (삼성청년소프트웨어AI아카데미 특화 프로젝트)
 **2025.02 ~ 2025.04 | Spring Boot + FastAPI + KoBERT + GRU + Jenkins + Docker**  
 🔗 [GitHub 보기](https://github.com/zebra0345/MMM)
