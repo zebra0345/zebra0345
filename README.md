@@ -3,6 +3,8 @@
 > **문과 출신에서 Django Contributor로.**  
 > 실전 프로젝트 중심으로 백엔드/AI 분야에 강점을 가진 개발자입니다.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zebra0345)](https://solved.ac/zebra0345/)
+
 ---
 
 ## ✨ 핵심 요약
