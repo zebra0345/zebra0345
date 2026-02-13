@@ -79,7 +79,7 @@
 ---
 
 ### 🗣 DreamMoA – AI 화상 스터디 플랫폼 (삼성청년소프트웨어AI아카데미 공통 프로젝트)
-**2024.01 ~ 2024.02 | FastAPI + GPT + GRU + YOLOv8 + React**  
+**2025.01 ~ 2025.02 | FastAPI + GPT + GRU + YOLOv8 + React**  
 🔗 [GitHub 보기](https://github.com/zebra0345/dream_project)
 
 
