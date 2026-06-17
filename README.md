@@ -4,7 +4,7 @@
 > 실전 프로젝트 중심으로 백엔드/AI 분야에 강점을 가진 개발자입니다.
 
 [![Solved.ac Profile](solve.png)](https://solved.ac/zebra0345/)
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7cecd355-44e1-4b42-8411-85ea329fef57" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7cecd355-44e1-4b42-8411-85ea329fef57" />
 
 
 ---
